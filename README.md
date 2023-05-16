@@ -4,7 +4,7 @@
 Java Application (com JavaFX)\
 IDE
   > IntelliJ IDE\
-JDK
+JDK\
   > Correto 19.0\
-Java FX
+Java FX\
   > JavaFX JDK 19.0
