@@ -3,7 +3,7 @@
 ## Orders Management in Luxury Restaurants
 Java Application (com JavaFX)\
 IDE
-  > IntelliJ IDE
+  > IntelliJ IDE\
 JDK
   > Correto 19.0
 Java FX
