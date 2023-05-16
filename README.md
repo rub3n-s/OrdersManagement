@@ -1,7 +1,10 @@
-# GPS-22/23
+# Software Projects Management - 2022/2023
 
-## Order Management in Luxury Restaurants
+## Orders Management in Luxury Restaurants
 Java Application (com JavaFX)\
-IntelliJ IDE\
-JDK Correto 19.0\
-JavaFX JDK 19.0
+IDE
+  > IntelliJ IDE
+JDK
+  > Correto 19.0
+Java FX
+  > JavaFX JDK 19.0
