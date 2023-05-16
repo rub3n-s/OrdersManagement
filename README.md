@@ -6,7 +6,7 @@ IDE
 > IntelliJ IDE
 
 JDK
-  > Correto 19.0\
+  > Correto 19.0
 
 Java FX
   > JavaFX JDK 19.0
